@@ -47,3 +47,6 @@ SELECT * FROM extracted_data;
 
 SELECT * FROM summary;
 
+
+DROP TABLE tempTable;
+DROP TABLE tempTable2;
